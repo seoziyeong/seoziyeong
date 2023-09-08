@@ -2,11 +2,11 @@
 
 I am Jiyeong Seo from South Korea, I also go by berry.<br/>
 I used to be a ux・ui designer, but I am now a front-end developer who tries to achieve efficient ux,<br/>
-not just to solve problems (and I also like coding ;))
+not just to solve problems. and I also like coding ;)
 
 **Experience**
-- Attended Bootcamp (focused on FE) - _elice_
-- Worked as a ui・ux designer (7years)
+- 👩‍💻 Attended Bootcamp (focused on FE) - _elice_ <sub>(2022.11 ~ 2023.05)</sub>
+- 👩‍🎨 Worked as a ui・ux designer  <sub>(7years)</sub>
 
 **Skills**
 
