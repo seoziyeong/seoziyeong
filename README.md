@@ -14,6 +14,6 @@ not just to solve problems. and I also like coding ;)
 <h6>🌱 I’m currently studying TypeScript, Next.js</h6>
 <br />
 
-![seoziyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoziyeong&include_all_commits=true&theme=graywhite&count_private=true&show_icons=true)
+![seoziyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoziyeong&theme=graywhite)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoziyeong&count_bg=%23D3B6FF&title_bg=%23969696&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=true)](https://hits.seeyoufarm.com)
