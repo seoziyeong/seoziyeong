@@ -5,7 +5,7 @@ I used to be a ux・ui designer, but I am now a front-end developer who tries to
 not just to solve problems. and I also like coding ;)
 
 **Experience**
-- 👩‍💼  working as an intern at - _@wairi_ <sub>(current~)</sub>
+- 👩‍💼  working as an intern - _@wairi_ <sub>(current~)</sub>
 - 👩‍💻 Attended Bootcamp (focused on FE) - _elice_ <sub>(2022.11 ~ 2023.05)</sub>
 - 👩‍🎨 Worked as a ui・ux designer  <sub>(7years)</sub>
 
