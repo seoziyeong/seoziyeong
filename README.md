@@ -5,6 +5,7 @@ I used to be a ux・ui designer, but I am now a front-end developer who tries to
 not just to solve problems. and I also like coding ;)
 
 **Experience**
+- 👩‍💼 working as a Cross-platform app developer - _@edaero_ <sub>(2026.04 ~ current)</sub>
 - 👩‍💼 Worked as a Cross-platform app developer (flutter) - _@wairi_ <sub>(2023.09 ~ 2025.09)</sub>
 - 👩‍💻 Attended Bootcamp (focused on FE) - _elice_ <sub>(2022.11 ~ 2023.05)</sub>
 - 👩‍🎨 Worked as a ui・ux designer <sub>(7years)</sub>
